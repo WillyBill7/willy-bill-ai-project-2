@@ -1,0 +1,13 @@
+{
+  "name": "willy-bill-ai",
+  "version": "1.0.0",
+  "description": "Willy Bill AI - Intelligent Assistant",
+  "main": "script.js",
+  "scripts": {
+    "dev": "echo 'No dev server needed'",
+    "start": "echo 'Static site - no start command needed'"
+  },
+  "keywords": ["ai", "assistant", "chatbot"],
+  "author": "Willy Bill",
+  "license": "MIT"
+}
